@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-classes-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-And_always_these_rules.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-Capture_variables.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-Find_a_correct_syntax.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-Implement_Runnable.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-Single_method.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-String_reverser.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-Command_line_arguments.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-How_to_pass_ints.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-How_to_start_a_program.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-Parameters_and_their_values.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-Passing_three_arguments.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-The_index_of_an_argument.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Division.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Declaring_a_method-Vowel_or_not.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Burger_store.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Clocks.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Laptop_store.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Motors.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Robot.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Robot_factory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-The_purpose_of_the_pattern.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Factory_method-Where_to_use_the_pattern.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Functional_interfaces-Statements.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Functional_interfaces-Ternary_predicate.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Functional_interfaces-The_requirement.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Functional_interfaces-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Apply_function_to_all_elements.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Expressions.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Higher-order_functions.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Max_of_two_integers.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Next_even_number.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Statements.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Method_references-Ascending_and_descending_sorting.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Method_references-Replace_the_lambda_expression_with_a_method_reference.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Method_references-Syntax_of_method_references.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Method_references-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Companies.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Equal_lists.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Filtering_the_list.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Greek_letters.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Select_correct_assignments.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Setting_a_new_name.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Split_a_list_into_sublists.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-The_longest_string_in_the_list.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-The_List_interface-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Add_a_window.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Closing_the_window.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Count_a_window_active_time.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Implement_a_listener.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Listener_triggered.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

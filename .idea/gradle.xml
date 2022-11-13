@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/And always these rules" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Find a correct syntax" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Single method" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/String reverser" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to start a program" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Passing three arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Greatest common divisor" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The elements of a method" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Burger store" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Clocks" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Laptop store" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Motors" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Robot" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Robot factory" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/The purpose of the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Where to use the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/The requirement" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Replace the lambda expression with a method reference" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Syntax of method references" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Filtering the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Setting a new name" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Add a window" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Closing the window" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Count a window active time" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Implement a listener" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Listener triggered" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
